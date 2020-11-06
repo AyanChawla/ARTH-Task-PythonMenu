@@ -10,7 +10,11 @@ Installation
 
 3. Linux Commands
 
-4. AWS 
+4. Partitions and Storage in Hadooop
+
+<a>https://www.linkedin.com/posts/aarnika-shringi-a671171b3_cloudcomputing-righteducation-rightmentor-activity-6730468729685082112-aTzY</a>
+
+5. AWS 
 Launching an Ec2 Instance
 
 User has to use by importing the AWS.py file and
