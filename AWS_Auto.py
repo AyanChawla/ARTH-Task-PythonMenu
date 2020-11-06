@@ -76,7 +76,7 @@ class AWS_EC2():
 	def describe_ebs(self):
 		print(sb.getoutput("aws ec2 describe-volumes"))
 
-	def create_ebs(self,availability_zone):
+	def create_ebs(self):
 		volume_type = input("Please Choose (gp2,standard,io2,io1,sc1,st1)")
 		size = input("Please Choose size (Constraints:  1-16,384  for  gp2  ,  4-16,384  for  io1  and  io2  ,\
           500-16,384 for st1 , 500-16,384 for sc1 , and 1-1,024 for standard .\
